@@ -1,9 +1,9 @@
 class ScdPkcs11 < Formula
   desc "PKCS#11 provider with smart card support via GnuPG"
   homepage "https://github.com/sektioneins/scd-pkcs11"
-  url "https://github.com/sektioneins/scd-pkcs11/archive/f2a9da74a338e43c3bf6885427261ecb920cc3d5.zip"
-  version "0.0.1"
-  sha256 "a1bd1f034dcbaf571c8c973e8e9332505a2c3e09f224742a021367a7a08cbb7f"
+  url "https://github.com/sektioneins/scd-pkcs11/archive/65854dccaa51955f51b00fc0e9ce20ed08a4ce78.zip"
+  version "0.0.2"
+  sha256 "57ebc66b9f1f62e97877e62a166ea7989a3c473f86a95d929b698ec32bfd3129"
 
   depends_on "libressl"
   depends_on "libassuan"
